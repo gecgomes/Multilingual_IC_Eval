@@ -1,6 +1,7 @@
 # Multilingual_IC_Eval
 
 Welcome to the repository of the Paper: **Evaluation of Multilingual Image Captioning: How far can we get with CLIP models?** 
+
 This repository is currently under development, and its content will be available soon. Stay tuned!
 
 ## 📅 Coming Soon
